@@ -1,6 +1,6 @@
 # 5x5x5 LED Cube
 
-[5x5x5 LED Cube - All LEDs Lit for Testing](images/LED CUBE 1.jpg)
+![5x5x5 LED Cube - All LEDs Lit for Testing](images/led_cube_full_on.jpg)
 
 This project showcases a **5x5x5 LED Cube** controlled by an **Arduino Mega 2560**. The cube is used to demonstrate various animations and concepts related to **Miller Indices**, commonly studied in crystallography.
 
